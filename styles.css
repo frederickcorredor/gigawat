@@ -69,9 +69,10 @@ section {
 
 .hijo-wrapper{
     width: 50%;
+    min-width:350px;
         img{
             min-width: 350px;
-            width: 50%;
+            width: 100%;
         }
 }
 
