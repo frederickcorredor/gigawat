@@ -42,7 +42,7 @@ section {
     flex-wrap: wrap;
     justify-content: center;
     flex-direction: column;
-widrh:100%;
+    width:100%;
 }
 
 .contenedor-grande{
